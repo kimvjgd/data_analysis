@@ -1,1 +1,1 @@
-print(df)
+.plot()
